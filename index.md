@@ -4,7 +4,7 @@ title: Privacy Policy - Timezone Converter Chrome Extension
 
 # Privacy Policy for Timezone Converter Chrome Extension
 
-*Last updated: [Current Date]*
+*Last updated: 09/20/2024
 
 ## Introduction
 
@@ -35,7 +35,7 @@ If future updates to the extension require changes to this privacy policy, we wi
 
 ## Contact Information
 
-If you have any questions or concerns about this privacy policy or the Timezone Converter extension, please contact us at [Your Contact Email].
+If you have any questions or concerns about this privacy policy or the Timezone Converter extension, please contact us at owen@trycrew.ai.
 
 ## Consent
 
